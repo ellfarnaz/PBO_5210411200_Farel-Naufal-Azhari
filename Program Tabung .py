@@ -1,7 +1,7 @@
 # Nana : Farel Naufal AZhari
 # NPM  : 5210411200
 
-print ("\n--- Program Menghitung Volume dan Luas tabung motubablog ---\n")
+print ("\n--- Program Menghitung Volume dan Luas Tabung ---\n")
 
 tinggi=int(input("Masukan Tinggi : "))
 jari=int(input("Masukan Jari-jari Lingkaran : "))
